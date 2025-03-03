@@ -1,0 +1,13 @@
+Getting Started
+
+Load the database in your computer
+1. Create a MySql database named self_order_kiosk
+2. Find the database file in the folder database and import database from that file.
+3. Go to /src/main/java/services/DatabaseService.java and go to DatabaseService() method and change details accordingly.
+
+
+Open the project in NetBeans
+Run the clean and build command.
+And run the project.
+
+If you face any difficulty while running the program feel free to contact us.
